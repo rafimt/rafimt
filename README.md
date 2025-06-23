@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Hi there, I'm Rafi Mahmud Tumon! 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Geospatial+Data+Scientist;GIS+%26+Remote+Sensing+Specialist;Python+Developer;Master's+Student+at+TU+Berlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Geospatial+Data+Scientist;GIS+%26+Remote+Sensing+Specialist;Master's+Student+at+TU+Berlin)](https://git.io/typing-svg)
 
 </div>
 
@@ -137,9 +135,6 @@ current_focus = {
 
 ---
 
-
----
-
 <div align="center">
 
 **Languages:** 🇺🇸 English (Fluent) | 🇧🇩 Bengali (Native) | 🇩🇪 German (Basic)
@@ -147,7 +142,3 @@ current_focus = {
 ![Profile Views](https://komarev.com/ghpvc/?username=rafimt&color=blue&style=flat-square)
 
 </div>
-
-<!--
-**rafimt/rafimt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
