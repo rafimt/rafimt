@@ -76,8 +76,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ### **Recent Research**
 - **"Application of Remote Sensing and GIS for Vulnerability Assessment"** - *Bachelor's Thesis*
-  - Analyzed flooding risks using satellite imagery and advanced spatial analysis
-  - Developed methodologies for land coverage change detection
+  - Analyzed flood vulnerability using satellite imagery and advanced spatial analysis
 
 ### **Publications**
 - **"Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters"**
