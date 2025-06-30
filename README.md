@@ -100,14 +100,13 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ## 🎯 Current Learning & Goals
 
-```python
-current_focus = {
-    "academic": ["Deep Learning for Geographical Data", "Photogrammetric Computer Vision"],
-    "professional": ["Infrastructure Planning Optimization", "Automated Geospatial Workflows"],
-    "technology": ["Graph Neural Networks", "Vision Transformers", "Advanced QGIS Automation"],
-    "languages": ["German (Basic → Intermediate)"]
-}
-```
+# 🎯 Current Learning & Goals
+
+- **WebGIS Development**: Interactive web-based geospatial applications and mapping solutions
+- **Vision Transformers**: Advanced computer vision techniques for geospatial data analysis
+- **Database Management**: Optimization and administration of spatial databases
+- **Workflow Automation**: Developing scripts to streamline geospatial processes
+- **JavaScript**: Frontend development for interactive mapping and data visualization
 
 ---
 
