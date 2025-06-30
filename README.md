@@ -11,7 +11,7 @@
 I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Strategic Area Development specialist at OXG Glasfaser GmbH, where I optimize fiber network deployment through advanced GIS analysis and Python automation.
 
 - 🌍 **Expertise**: GIS, Remote Sensing, Spatial Analysis, Python Programming
-- 🔭 **Current Focus**: Deep Learning for Geographical Data, Infrastructure Planning
+- 🔭 **Current Focus**: Geographical Data Science
 - 📍 **Location**: Berlin, Germany
 - 🎓 **Education**: MS Geodesy & Geoinformation Science (TU Berlin), BS Urban & Regional Planning (RUET)
 - 💼 **Industry Experience**: Telecommunications Infrastructure, Urban Planning, Transportation Analysis
@@ -21,7 +21,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ## 🛠️ Tech Stack & Skills
 
 ### **Core Geospatial Technologies**
-![QGIS](https://img.shields.io/badge/QGIS-3.22+-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-3.34-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C5282?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
@@ -47,8 +47,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ### **Web Development & Visualization**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,7 +82,6 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ### **Publications**
 - **"Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters"**
   - *Trends in Civil Engineering and its Architecture, Lupine Publishers*
-  - DOI: 10.32474/TCEIA.2019.03.000171
 
 ---
 
@@ -91,9 +90,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ### **Current Role: Strategic Area Development** 
 **OXG Glasfaser GmbH** | *June 2024 - Present*
 - 🗺️ Performing comprehensive geographical data analysis using QGIS for optical fiber network deployment
-- 🐍 Developing automated Python models to optimize workflow efficiency
-- 📊 Executing strategic cost-benefit analyses for network expansion projects
-- 🎯 Conducting geospatial assessments to identify optimal deployment areas
+- 🐍 Developing automated Python models results in a 20% improvement in operational efficiency
+- 🎯 Conducting geospatial assessments and database quality assurance
 
 ### **Previous Experience**
 - **GIS and Geospatial Planner** - Department of Civil Engineering, RUET
@@ -108,7 +106,7 @@ current_focus = {
     "academic": ["Deep Learning for Geographical Data", "Photogrammetric Computer Vision"],
     "professional": ["Infrastructure Planning Optimization", "Automated Geospatial Workflows"],
     "technology": ["Graph Neural Networks", "Vision Transformers", "Advanced QGIS Automation"],
-    "languages": ["German (Basic → Intermediate)", "Advanced Python Libraries"]
+    "languages": ["German (Basic → Intermediate)"]
 }
 ```
 
